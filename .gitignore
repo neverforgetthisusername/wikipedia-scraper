@@ -1,0 +1,8 @@
+# ouput files
+export*.txt
+list_*.csv
+API_Import*.txt
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
