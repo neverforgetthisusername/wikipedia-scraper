@@ -1,7 +1,6 @@
 import json
 import src.utils as utils
-import pprint
-import pandas as pd
+
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup

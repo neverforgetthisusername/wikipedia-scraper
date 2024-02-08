@@ -1,11 +1,6 @@
 # import the requests library 
 import requests
-from bs4 import BeautifulSoup
-import re
 import time 
-
-import json
-from pprint import pprint
 import src.api as api
 
 
